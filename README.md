@@ -12,7 +12,7 @@ This project is a Password Generator. It will generate a random password with th
 ## Usage 
 
 ```md
-![Generated Password](assets/images/passwordscreenshot.png)
+![Generated Password](./assets/images/passwordscreenshot.png)
 ```
 
 ## Badges
